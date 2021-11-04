@@ -1,6 +1,6 @@
 #include <iostream>
 // 프로그래머스 코딩테스트 연습 
-// Lv3 네트워크크
+// Lv3 네트워크
 
 #include <string>
 #include <vector>
