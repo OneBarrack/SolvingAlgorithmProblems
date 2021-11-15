@@ -27,5 +27,8 @@
     <ClCompile Include="DotProduct.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="TakeAGroupPhoto.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
