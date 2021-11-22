@@ -144,6 +144,7 @@
     <ClCompile Include="DotProduct.cpp" />
     <ClCompile Include="FarthestNode.cpp" />
     <ClCompile Include="LittleFriendsSichuan.cpp" />
+    <ClCompile Include="MaximizeFormulas.cpp" />
     <ClCompile Include="Network.cpp" />
     <ClCompile Include="TakeAGroupPhoto.cpp" />
   </ItemGroup>
