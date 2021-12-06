@@ -146,6 +146,7 @@
     <ClCompile Include="LittleFriendsSichuan.cpp" />
     <ClCompile Include="MaximizeFormulas.cpp" />
     <ClCompile Include="Network.cpp" />
+    <ClCompile Include="PlainSquare.cpp" />
     <ClCompile Include="TakeAGroupPhoto.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
