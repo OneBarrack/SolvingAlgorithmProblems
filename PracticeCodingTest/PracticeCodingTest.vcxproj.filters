@@ -45,5 +45,8 @@
     <ClCompile Include="TheShortestDistanceOnTheGameMap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GetReportResults.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
