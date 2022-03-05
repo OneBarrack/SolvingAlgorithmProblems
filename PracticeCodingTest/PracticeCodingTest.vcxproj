@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CheckSocialDistancing.cpp" />
+    <ClCompile Include="ChuseokTraffic.cpp" />
     <ClCompile Include="CraneClawMachineGame.cpp" />
     <ClCompile Include="DotProduct.cpp" />
     <ClCompile Include="FarthestNode.cpp" />
