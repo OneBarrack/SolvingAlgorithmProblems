@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
     <ClCompile Include="ChuseokTraffic.cpp" />
     <ClCompile Include="CraneClawMachineGame.cpp" />
