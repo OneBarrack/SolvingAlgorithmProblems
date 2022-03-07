@@ -145,6 +145,7 @@
     <ClCompile Include="ChuseokTraffic.cpp" />
     <ClCompile Include="CraneClawMachineGame.cpp" />
     <ClCompile Include="DotProduct.cpp" />
+    <ClCompile Include="FailureRate.cpp" />
     <ClCompile Include="FarthestNode.cpp" />
     <ClCompile Include="GetReportResults.cpp" />
     <ClCompile Include="LittleFriendsSichuan.cpp" />
