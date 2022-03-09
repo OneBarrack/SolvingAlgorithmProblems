@@ -154,6 +154,7 @@
     <ClCompile Include="PlainSquare.cpp" />
     <ClCompile Include="TakeAGroupPhoto.cpp" />
     <ClCompile Include="TheShortestDistanceOnTheGameMap.cpp" />
+    <ClCompile Include="Tuple.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
