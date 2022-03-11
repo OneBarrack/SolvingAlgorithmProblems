@@ -148,6 +148,7 @@
     <ClCompile Include="FailureRate.cpp" />
     <ClCompile Include="FarthestNode.cpp" />
     <ClCompile Include="GetReportResults.cpp" />
+    <ClCompile Include="H-Index.cpp" />
     <ClCompile Include="LittleFriendsSichuan.cpp" />
     <ClCompile Include="MaximizeFormulas.cpp" />
     <ClCompile Include="Network.cpp" />
