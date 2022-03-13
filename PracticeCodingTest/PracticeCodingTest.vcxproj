@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="1stNewsClustering.cpp" />
     <ClCompile Include="AddMissingNumbers.cpp" />
+    <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
     <ClCompile Include="ChuseokTraffic.cpp" />
