@@ -142,6 +142,7 @@
     <ClCompile Include="1stNewsClustering.cpp" />
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="BasUser.cpp" />
+    <ClCompile Include="Budget.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
