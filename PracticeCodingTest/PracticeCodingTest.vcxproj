@@ -145,6 +145,7 @@
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
+    <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
     <ClCompile Include="ChuseokTraffic.cpp" />
