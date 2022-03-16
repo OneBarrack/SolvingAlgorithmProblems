@@ -78,5 +78,8 @@
     <ClCompile Include="Budget.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="NewIDRecommendation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
