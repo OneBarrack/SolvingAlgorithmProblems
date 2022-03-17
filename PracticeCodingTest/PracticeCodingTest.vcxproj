@@ -144,6 +144,7 @@
     <ClCompile Include="BasUser.cpp" />
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
+    <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
