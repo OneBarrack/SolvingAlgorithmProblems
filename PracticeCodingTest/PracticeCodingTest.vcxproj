@@ -147,6 +147,7 @@
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="Rank Search.cpp" />
+    <ClCompile Include="RotateParentheses.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
     <ClCompile Include="ChuseokTraffic.cpp" />
