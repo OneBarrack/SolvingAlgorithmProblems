@@ -143,6 +143,7 @@
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="BasUser.cpp" />
     <ClCompile Include="Budget.cpp" />
+    <ClCompile Include="Delivery.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
