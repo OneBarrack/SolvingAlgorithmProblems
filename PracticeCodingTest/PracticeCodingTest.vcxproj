@@ -148,6 +148,7 @@
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
+    <ClCompile Include="NoMoreThan2DifferentBits.cpp" />
     <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="RotateParentheses.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
