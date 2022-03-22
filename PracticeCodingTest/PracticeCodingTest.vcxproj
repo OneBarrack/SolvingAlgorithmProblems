@@ -147,6 +147,7 @@
     <ClCompile Include="EditTable.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="GemShopping.cpp" />
+    <ClCompile Include="MakePrimeNumber.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="NoMoreThan2DifferentBits.cpp" />
     <ClCompile Include="Rank Search.cpp" />

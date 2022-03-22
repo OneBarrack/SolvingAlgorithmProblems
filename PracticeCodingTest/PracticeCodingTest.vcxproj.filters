@@ -102,5 +102,8 @@
     <ClCompile Include="NoMoreThan2DifferentBits.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MakePrimeNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
