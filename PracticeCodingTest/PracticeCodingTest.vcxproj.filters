@@ -108,5 +108,8 @@
     <ClCompile Include="DoublePriorityQueue.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FatigueLevel.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

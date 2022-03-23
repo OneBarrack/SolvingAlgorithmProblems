@@ -147,6 +147,7 @@
     <ClCompile Include="DoublePriorityQueue.cpp" />
     <ClCompile Include="EditTable.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
+    <ClCompile Include="FatigueLevel.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="MakePrimeNumber.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
