@@ -151,6 +151,7 @@
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="MakePrimeNumber.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
+    <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="NoMoreThan2DifferentBits.cpp" />
     <ClCompile Include="Rank Search.cpp" />
