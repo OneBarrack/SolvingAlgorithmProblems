@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1stNewsClustering.cpp" />
+    <ClCompile Include="2xnTiling.cpp" />
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="BasUser.cpp" />
     <ClCompile Include="Budget.cpp" />
@@ -149,7 +150,6 @@
     <ClCompile Include="EditTable.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="FatigueLevel.cpp" />
-    <ClCompile Include="FIsh.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="MakePrimeNumber.cpp" />
     <ClCompile Include="MaxCounters.cpp" />

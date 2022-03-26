@@ -126,7 +126,7 @@
     <ClCompile Include="NumberOfDiscIntersections.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FIsh.cpp">
+    <ClCompile Include="2xnTiling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
