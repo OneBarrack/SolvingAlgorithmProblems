@@ -129,5 +129,8 @@
     <ClCompile Include="2xnTiling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="TriangularSnail.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
