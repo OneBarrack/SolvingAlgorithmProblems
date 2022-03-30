@@ -148,6 +148,7 @@
     <ClCompile Include="Delivery.cpp" />
     <ClCompile Include="DoublePriorityQueue.cpp" />
     <ClCompile Include="EditTable.cpp" />
+    <ClCompile Include="EnglishWordRelay.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
     <ClCompile Include="FatigueLevel.cpp" />
     <ClCompile Include="GemShopping.cpp" />
