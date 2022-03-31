@@ -158,6 +158,7 @@
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="NoMoreThan2DifferentBits.cpp" />
+    <ClCompile Include="NumberAndAdditionOfDivisors.cpp" />
     <ClCompile Include="NumberOfDiscIntersections.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="Rank Search.cpp" />
