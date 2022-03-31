@@ -141,5 +141,8 @@
     <ClCompile Include="NumberAndAdditionOfDivisors.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1stCache.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -181,6 +181,7 @@
     <ClCompile Include="TriangularSnail.cpp" />
     <ClCompile Include="Tuple.cpp" />
     <ClCompile Include="WordConversion.cpp" />
+    <ClCompile Include="1stCache.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
