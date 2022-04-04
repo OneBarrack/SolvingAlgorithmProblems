@@ -165,6 +165,7 @@
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="RotateParentheses.cpp" />
+    <ClCompile Include="TakeTwoAndSumThem.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
     <ClCompile Include="ChuseokTraffic.cpp" />
