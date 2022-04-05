@@ -166,6 +166,7 @@
     <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="RotateParentheses.cpp" />
     <ClCompile Include="SkillTree.cpp" />
+    <ClCompile Include="SplitThePowerGridInTwo.cpp" />
     <ClCompile Include="TakeTwoAndSumThem.cpp" />
     <ClCompile Include="TheBiggestNumber.cpp" />
     <ClCompile Include="CheckSocialDistancing.cpp" />
