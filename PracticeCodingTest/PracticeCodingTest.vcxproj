@@ -183,6 +183,7 @@
     <ClCompile Include="PlainSquare.cpp" />
     <ClCompile Include="TakeAGroupPhoto.cpp" />
     <ClCompile Include="TheShortestDistanceOnTheGameMap.cpp" />
+    <ClCompile Include="TravelRoute.cpp" />
     <ClCompile Include="TriangularSnail.cpp" />
     <ClCompile Include="Tuple.cpp" />
     <ClCompile Include="WordConversion.cpp" />
