@@ -143,6 +143,7 @@
     <ClCompile Include="2xnTiling.cpp" />
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="BasUser.cpp" />
+    <ClCompile Include="BestAlbum.cpp" />
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="Delivery.cpp" />
