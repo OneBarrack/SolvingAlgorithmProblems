@@ -147,6 +147,7 @@
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="Delivery.cpp" />
+    <ClCompile Include="DiskController.cpp" />
     <ClCompile Include="DoublePriorityQueue.cpp" />
     <ClCompile Include="EditTable.cpp" />
     <ClCompile Include="EnglishWordRelay.cpp" />
