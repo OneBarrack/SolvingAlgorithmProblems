@@ -188,6 +188,7 @@
     <ClCompile Include="TravelRoute.cpp" />
     <ClCompile Include="TriangularSnail.cpp" />
     <ClCompile Include="Tuple.cpp" />
+    <ClCompile Include="VowelDictionary.cpp" />
     <ClCompile Include="WordConversion.cpp" />
     <ClCompile Include="1stCache.cpp" />
   </ItemGroup>
