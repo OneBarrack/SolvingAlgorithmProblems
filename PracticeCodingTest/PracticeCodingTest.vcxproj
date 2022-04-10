@@ -166,6 +166,7 @@
     <ClCompile Include="NumberSolitaire.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="Rank Search.cpp" />
+    <ClCompile Include="RepeatTheBinaryTransformation.cpp" />
     <ClCompile Include="RotateParentheses.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="SplitThePowerGridInTwo.cpp" />
