@@ -163,6 +163,7 @@
     <ClCompile Include="MaxCounters.cpp" />
     <ClCompile Include="MinimumRectangle.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
+    <ClCompile Include="Move110.cpp" />
     <ClCompile Include="NewIDRecommendation.cpp" />
     <ClCompile Include="NoMoreThan2DifferentBits.cpp" />
     <ClCompile Include="NumberAndAdditionOfDivisors.cpp" />
