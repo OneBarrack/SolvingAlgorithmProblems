@@ -192,5 +192,8 @@
     <ClCompile Include="JustBeforeMusic.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ExpressionOfNumbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

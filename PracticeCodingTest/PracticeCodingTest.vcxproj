@@ -156,6 +156,7 @@
     <ClCompile Include="EditTable.cpp" />
     <ClCompile Include="EnglishWordRelay.cpp" />
     <ClCompile Include="ExpectedTournamentTree.cpp" />
+    <ClCompile Include="ExpressionOfNumbers.cpp" />
     <ClCompile Include="FatigueLevel.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="2016Year.cpp" />
