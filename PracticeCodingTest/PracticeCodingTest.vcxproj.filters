@@ -195,5 +195,8 @@
     <ClCompile Include="ExpressionOfNumbers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LongestPelindrome.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
