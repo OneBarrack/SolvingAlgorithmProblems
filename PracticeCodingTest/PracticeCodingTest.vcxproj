@@ -162,6 +162,7 @@
     <ClCompile Include="2016Year.cpp" />
     <ClCompile Include="JustBeforeMusic.cpp" />
     <ClCompile Include="LongestPelindrome.cpp" />
+    <ClCompile Include="LongJump.cpp" />
     <ClCompile Include="MakePrimeNumber.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
     <ClCompile Include="MinimumRectangle.cpp" />
