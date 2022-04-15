@@ -161,6 +161,7 @@
     <ClCompile Include="FatigueLevel.cpp" />
     <ClCompile Include="GemShopping.cpp" />
     <ClCompile Include="2016Year.cpp" />
+    <ClCompile Include="HowToLineUp.cpp" />
     <ClCompile Include="JustBeforeMusic.cpp" />
     <ClCompile Include="LongestPelindrome.cpp" />
     <ClCompile Include="LongJump.cpp" />
