@@ -175,11 +175,13 @@
     <ClCompile Include="NumberAndAdditionOfDivisors.cpp" />
     <ClCompile Include="NumberOfDiscIntersections.cpp" />
     <ClCompile Include="NumberSolitaire.cpp" />
+    <ClCompile Include="OvertimeIndex.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="Rank Search.cpp" />
     <ClCompile Include="RepeatTheBinaryTransformation.cpp" />
     <ClCompile Include="RotateParentheses.cpp" />
     <ClCompile Include="SellingMultiLevelToothbrushes.cpp" />
+    <ClCompile Include="OvertimeIndex.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="SplitThePowerGridInTwo.cpp" />
     <ClCompile Include="TakeTwoAndSumThem.cpp" />
