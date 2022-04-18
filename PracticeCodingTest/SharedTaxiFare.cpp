@@ -1,6 +1,6 @@
 #include <iostream>
 // 프로그래머스 코딩테스트 연습 
-// Lv.3 - 합승 택시 요금
+// Lv.3 - 합승 택시 요금 
 
 #include <string>
 #include <list>
