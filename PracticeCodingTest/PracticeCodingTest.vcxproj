@@ -149,6 +149,7 @@
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="CalculateParkingFee.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
+    <ClCompile Include="N-Queen.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CountingAfterQuadCompression.cpp" />
     <ClCompile Include="Delivery.cpp" />
