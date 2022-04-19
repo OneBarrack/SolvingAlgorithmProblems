@@ -222,5 +222,8 @@
     <ClCompile Include="N-Queen.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BestSet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
