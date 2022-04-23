@@ -145,6 +145,7 @@
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="AntiCell.cpp" />
     <ClCompile Include="ArcheryCompetition.cpp" />
+    <ClCompile Include="AttibuteParser.cpp" />
     <ClCompile Include="BasUser.cpp" />
     <ClCompile Include="BestAlbum.cpp" />
     <ClCompile Include="BestSet.cpp" />
