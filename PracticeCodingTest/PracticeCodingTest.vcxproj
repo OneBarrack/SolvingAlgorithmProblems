@@ -151,6 +151,7 @@
     <ClCompile Include="BestSet.cpp" />
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="CalculateParkingFee.cpp" />
+    <ClCompile Include="ClimbingTheLeaderboard.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="N-Queen.cpp" />
     <ClCompile Include="CountDiv.cpp" />
