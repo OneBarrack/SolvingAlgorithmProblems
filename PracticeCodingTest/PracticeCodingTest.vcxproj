@@ -153,6 +153,7 @@
     <ClCompile Include="CalculateParkingFee.cpp" />
     <ClCompile Include="ClimbingTheLeaderboard.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
+    <ClCompile Include="ExtraLongFactorials.cpp" />
     <ClCompile Include="N-Queen.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CountingAfterQuadCompression.cpp" />
