@@ -207,6 +207,7 @@
     <ClCompile Include="PlainSquare.cpp" />
     <ClCompile Include="TakeAGroupPhoto.cpp" />
     <ClCompile Include="TheShortestDistanceOnTheGameMap.cpp" />
+    <ClCompile Include="ThreeLetters.cpp" />
     <ClCompile Include="TowerOfHanoi.cpp" />
     <ClCompile Include="TravelRoute.cpp" />
     <ClCompile Include="TriangularSnail.cpp" />
