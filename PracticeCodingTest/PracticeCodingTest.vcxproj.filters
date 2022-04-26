@@ -240,5 +240,8 @@
     <ClCompile Include="ExtraLongFactorials.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ModifiedKaprekarNumbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
