@@ -155,6 +155,7 @@
     <ClCompile Include="ClimbingTheLeaderboard.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="ExtraLongFactorials.cpp" />
+    <ClCompile Include="GetTheMiddleLetter.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="RankSearch.cpp" />
     <ClCompile Include="SortFileNames.cpp" />

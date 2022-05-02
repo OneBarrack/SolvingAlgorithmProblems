@@ -261,5 +261,8 @@
     <ClCompile Include="RankSearch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GetTheMiddleLetter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
