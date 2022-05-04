@@ -267,5 +267,8 @@
     <ClCompile Include="Friends4Bblocks.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MakeAStarAtTheIntersection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
