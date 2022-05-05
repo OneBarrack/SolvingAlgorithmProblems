@@ -158,6 +158,7 @@
     <ClCompile Include="Friends4Bblocks.cpp" />
     <ClCompile Include="GetTheMiddleLetter.cpp" />
     <ClCompile Include="MakeAStarAtTheIntersection.cpp" />
+    <ClCompile Include="MakeTheLargestSquare.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="RankSearch.cpp" />
     <ClCompile Include="SortFileNames.cpp" />
