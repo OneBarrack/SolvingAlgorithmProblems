@@ -164,6 +164,7 @@
     <ClCompile Include="MakeTheLargestSquare.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="RankSearch.cpp" />
+    <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SortFileNames.cpp" />
     <ClCompile Include="N-Queen.cpp" />
     <ClCompile Include="CountDiv.cpp" />
