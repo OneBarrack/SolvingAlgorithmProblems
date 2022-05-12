@@ -17,65 +17,84 @@
 //
 //string solution(int n, int k, vector<string> cmd)
 //{
-//	string answer;
-//	set<int> table;
-//	stack<int> deletedRows;
+//    string answer = "";
 //
-//	for ( int i = 0; i < n; ++i )
-//	{
-//		table.insert(i);
-//	}
+//    list<int> table;
+//    for ( int i = 0; i < n; ++i )
+//        table.push_back(i);
 //
-//	set<int>::iterator rowIter = table.find(k);
+//    auto iter = table.begin();
+//    advance(iter, k);
 //
-//	for ( string cmdLine : cmd )
-//	{
-//		stringstream ss(cmdLine);
-//		string command;
-//		getline(ss, command, ' ');
+//    stack<pair<int, int>> erasedRowStack;
+//    int prevRow = k;
+//    int curRow = k;
+//    for ( string cmdLine : cmd )
+//    {
+//        char operation = cmdLine[0];
+//        switch ( operation )
+//        {
+//            case 'U':
+//            {
+//                int num = stoi(cmdLine.substr(2));
+//                curRow -= num;
+//            }
+//            break;
+//            case 'D':
+//            {
+//                int num = stoi(cmdLine.substr(2));                
+//                curRow += num;
+//            }
+//            break;
+//            case 'C':
+//            {
+//                advance(iter, curRow - prevRow);
+//                erasedRowStack.push(make_pair(curRow, *iter));
 //
-//		if ( command == "U" )
-//		{
-//			getline(ss, command, ' ');
-//			int count = stoi(command);
-//			for ( int i = 0; i < count; ++i )
-//			{
-//				--rowIter;
-//			}
-//		}
-//		else if ( command == "D" )
-//		{
-//			getline(ss, command, ' ');
-//			int count = stoi(command);
-//			for ( int i = 0; i < count; ++i )
-//			{
-//				++rowIter;
-//			}
-//		}
-//		else if ( command == "C" )
-//		{
-//			deletedRows.push(*rowIter);
-//			table.erase(rowIter++);
+//                iter = table.erase(iter);
+//                if ( iter == table.end() )
+//                {
+//                    iter = prev(table.end());
+//                    --curRow;
+//                }
 //
-//			if ( rowIter == table.end() )
-//			{
-//				--rowIter;
-//			}
-//		}
-//		else if ( command == "Z" )
-//		{
-//			int curRow = deletedRows.top();
-//			deletedRows.pop();
-//			table.insert(curRow);
-//		}
-//	}
+//                prevRow = curRow;
+//            }
+//            break;
+//            case 'Z':
+//            {
+//                if ( !erasedRowStack.empty() )
+//                {
+//                    int erasedRow = erasedRowStack.top().first;
+//                    int erasedValue = erasedRowStack.top().second;
+//                    erasedRowStack.pop();
 //
-//	answer.resize(n);
-//	std::fill(answer.begin(), answer.end(), 'X');
-//	for ( int row : table )
-//		answer[row] = 'O';
+//                    auto iterInsertPos = table.begin();
+//                    advance(iterInsertPos, erasedRow);
+//                    table.insert(iterInsertPos, erasedValue);
+//                }
+//            }
+//            break;
+//            default: // Error case
+//                break;
+//        }
+//    }
 //
-//	return answer;
+//    iter = table.begin();
+//    for ( int i = 0; i < n; ++i )
+//    {
+//        if ( *iter == i )
+//        {
+//            answer += "O";
+//            ++iter;
+//        }
+//        else
+//        {
+//            answer += "X";
+//        }
+//    }
+//
+//    return answer;
 //}
 //
 //int main()

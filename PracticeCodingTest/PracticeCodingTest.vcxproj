@@ -165,6 +165,7 @@
     <ClCompile Include="MakeAMinumun.cpp" />
     <ClCompile Include="MakeAStarAtTheIntersection.cpp" />
     <ClCompile Include="MakeTheLargestSquare.cpp" />
+    <ClCompile Include="MaximumAndMinimum.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="RankSearch.cpp" />
     <ClCompile Include="SecretMap.cpp" />
