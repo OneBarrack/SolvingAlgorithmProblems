@@ -168,6 +168,7 @@
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="MaximumAndMinimum.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
+    <ClCompile Include="PathfindingGame.cpp" />
     <ClCompile Include="RankSearch.cpp" />
     <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SortFileNames.cpp" />
