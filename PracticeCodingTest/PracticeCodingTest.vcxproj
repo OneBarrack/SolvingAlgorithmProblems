@@ -208,6 +208,7 @@
     <ClCompile Include="SellingMultiLevelToothbrushes.cpp" />
     <ClCompile Include="OvertimeIndex.cpp" />
     <ClCompile Include="SharedTaxiFare.cpp" />
+    <ClCompile Include="StarSequence.cpp" />
     <ClCompile Include="WordPuzzle.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="SplitThePowerGridInTwo.cpp" />
