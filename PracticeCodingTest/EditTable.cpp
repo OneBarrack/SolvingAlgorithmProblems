@@ -26,7 +26,7 @@
 //    auto iter = table.begin();
 //    advance(iter, k);
 //
-//    stack<pair<int, int>> erasedRowStack;
+//    stack<pair<list<int>::iterator, int>> erasedRowStack;
 //    int prevRow = k;
 //    int curRow = k;
 //    for ( string cmdLine : cmd )
@@ -37,41 +37,41 @@
 //            case 'U':
 //            {
 //                int num = stoi(cmdLine.substr(2));
-//                curRow -= num;
+//                for ( int i = 0; i < num; ++i, ++iter )
+//                {
+//                    if ( iter == table.begin() )
+//                        break;
+//                }
 //            }
 //            break;
 //            case 'D':
 //            {
-//                int num = stoi(cmdLine.substr(2));                
-//                curRow += num;
+//                int num = stoi(cmdLine.substr(2));
+//                for ( int i = 0; i < num; ++i, ++iter )
+//                {
+//                    if ( next(iter) == table.end() )
+//                        break;
+//                }
 //            }
 //            break;
 //            case 'C':
 //            {
-//                advance(iter, curRow - prevRow);
-//                erasedRowStack.push(make_pair(curRow, *iter));
+//                erasedRowStack.push(make_pair(next(iter), *iter));
 //
 //                iter = table.erase(iter);
 //                if ( iter == table.end() )
-//                {
 //                    iter = prev(table.end());
-//                    --curRow;
-//                }
-//
-//                prevRow = curRow;
 //            }
 //            break;
 //            case 'Z':
 //            {
 //                if ( !erasedRowStack.empty() )
 //                {
-//                    int erasedRow = erasedRowStack.top().first;
-//                    int erasedValue = erasedRowStack.top().second;
-//                    erasedRowStack.pop();
+//                    auto insertIter = erasedRowStack.top().first;
+//                    int insertNum = erasedRowStack.top().second;
 //
-//                    auto iterInsertPos = table.begin();
-//                    advance(iterInsertPos, erasedRow);
-//                    table.insert(iterInsertPos, erasedValue);
+//                    table.insert(insertIter, insertNum);
+//                    erasedRowStack.pop();
 //                }
 //            }
 //            break;
