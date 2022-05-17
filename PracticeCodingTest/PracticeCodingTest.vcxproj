@@ -164,6 +164,7 @@
     <ClCompile Include="Friends4Bblocks.cpp" />
     <ClCompile Include="GetTheMiddleLetter.cpp" />
     <ClCompile Include="LyricsSearch.cpp" />
+    <ClCompile Include="MakeAllZeros.cpp" />
     <ClCompile Include="MakeAMinumun.cpp" />
     <ClCompile Include="MakeAStarAtTheIntersection.cpp" />
     <ClCompile Include="MakeTheLargestSquare.cpp" />

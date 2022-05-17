@@ -318,5 +318,8 @@
     <ClCompile Include="SheepAndWolf.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MakeAllZeros.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
