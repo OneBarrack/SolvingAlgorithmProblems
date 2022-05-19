@@ -321,5 +321,8 @@
     <ClCompile Include="MakeAllZeros.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FillThePuzzlePieces.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
