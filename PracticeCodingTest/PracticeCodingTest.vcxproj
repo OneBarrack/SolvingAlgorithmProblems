@@ -142,6 +142,7 @@
     <ClCompile Include="1stNewsClustering.cpp" />
     <ClCompile Include="1stShuttleBus.cpp" />
     <ClCompile Include="2xnTiling.cpp" />
+    <ClCompile Include="AddDigits.cpp" />
     <ClCompile Include="ArrayOfDivisibleNumbers.cpp" />
     <ClCompile Include="AddMissingNumbers.cpp" />
     <ClCompile Include="AntiCell.cpp" />
