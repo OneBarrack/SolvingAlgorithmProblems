@@ -153,6 +153,7 @@
     <ClCompile Include="BestSet.cpp" />
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="BuildBaseStation.cpp" />
+    <ClCompile Include="CaesarCipher.cpp" />
     <ClCompile Include="CalculateParkingFee.cpp" />
     <ClCompile Include="CalculateTheInsufficientMoney.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
