@@ -176,6 +176,7 @@
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="MaximumAndMinimum.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
+    <ClCompile Include="OrganizingContainersOfBalls.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
     <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="PathfindingGame.cpp" />
