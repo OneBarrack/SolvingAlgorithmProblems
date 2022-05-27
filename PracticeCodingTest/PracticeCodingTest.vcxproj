@@ -168,6 +168,7 @@
     <ClCompile Include="FillThePuzzlePieces.cpp" />
     <ClCompile Include="Friends4Bblocks.cpp" />
     <ClCompile Include="GetTheMiddleLetter.cpp" />
+    <ClCompile Include="Larry%27s Array.cpp" />
     <ClCompile Include="LyricsSearch.cpp" />
     <ClCompile Include="MakeAllZeros.cpp" />
     <ClCompile Include="MakeAMinumun.cpp" />
