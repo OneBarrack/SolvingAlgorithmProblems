@@ -179,6 +179,7 @@
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="Encryption.cpp" />
     <ClCompile Include="OrganizingContainersOfBalls.cpp" />
+    <ClCompile Include="PlusMinus.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
     <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="PathfindingGame.cpp" />
