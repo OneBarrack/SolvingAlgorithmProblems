@@ -163,6 +163,7 @@
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="DartGame.cpp" />
+    <ClCompile Include="DiagonalDifference.cpp" />
     <ClCompile Include="EvenAndOdd.cpp" />
     <ClCompile Include="ExtraLongFactorials.cpp" />
     <ClCompile Include="FillThePuzzlePieces.cpp" />
