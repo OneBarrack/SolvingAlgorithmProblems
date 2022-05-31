@@ -222,6 +222,7 @@
     <ClCompile Include="OvertimeIndex.cpp" />
     <ClCompile Include="SharedTaxiFare.cpp" />
     <ClCompile Include="SortTheStringMyWay.cpp" />
+    <ClCompile Include="Staircase.cpp" />
     <ClCompile Include="StarSequence.cpp" />
     <ClCompile Include="WordPuzzle.cpp" />
     <ClCompile Include="SkillTree.cpp" />
