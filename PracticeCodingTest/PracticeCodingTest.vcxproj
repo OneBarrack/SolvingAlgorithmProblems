@@ -224,6 +224,7 @@
     <ClCompile Include="SortTheStringMyWay.cpp" />
     <ClCompile Include="Staircase.cpp" />
     <ClCompile Include="StarSequence.cpp" />
+    <ClCompile Include="TheFullCountingSort.cpp" />
     <ClCompile Include="TheGridSearch.cpp" />
     <ClCompile Include="WordPuzzle.cpp" />
     <ClCompile Include="SkillTree.cpp" />
