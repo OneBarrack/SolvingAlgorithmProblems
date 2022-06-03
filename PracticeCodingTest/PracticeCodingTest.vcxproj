@@ -179,6 +179,7 @@
     <ClCompile Include="MaximumAndMinimum.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="Encryption.cpp" />
+    <ClCompile Include="BirthdayCakeCandles.cpp" />
     <ClCompile Include="OrganizingContainersOfBalls.cpp" />
     <ClCompile Include="PlusMinus.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
