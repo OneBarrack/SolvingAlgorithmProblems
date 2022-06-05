@@ -181,6 +181,7 @@
     <ClCompile Include="Encryption.cpp" />
     <ClCompile Include="BirthdayCakeCandles.cpp" />
     <ClCompile Include="OrganizingContainersOfBalls.cpp" />
+    <ClCompile Include="Pairs.cpp" />
     <ClCompile Include="PlusMinus.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
     <ClCompile Include="NumberGame.cpp" />
