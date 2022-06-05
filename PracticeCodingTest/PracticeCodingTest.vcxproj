@@ -177,6 +177,7 @@
     <ClCompile Include="MakeTheLargestSquare.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="MaximumAndMinimum.cpp" />
+    <ClCompile Include="MinimumLoss.cpp" />
     <ClCompile Include="ModifiedKaprekarNumbers.cpp" />
     <ClCompile Include="Encryption.cpp" />
     <ClCompile Include="BirthdayCakeCandles.cpp" />
