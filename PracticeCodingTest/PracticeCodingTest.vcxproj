@@ -191,6 +191,7 @@
     <ClCompile Include="PathfindingGame.cpp" />
     <ClCompile Include="RankSearch.cpp" />
     <ClCompile Include="SecretMap.cpp" />
+    <ClCompile Include="MakePassword.cpp" />
     <ClCompile Include="Sort.cpp" />
     <ClCompile Include="SortFileNames.cpp" />
     <ClCompile Include="N-Queen.cpp" />
