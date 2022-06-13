@@ -396,5 +396,8 @@
     <ClCompile Include="TimeConversion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GradingStudents.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

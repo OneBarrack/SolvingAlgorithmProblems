@@ -170,6 +170,7 @@
     <ClCompile Include="FillThePuzzlePieces.cpp" />
     <ClCompile Include="Friends4Bblocks.cpp" />
     <ClCompile Include="GetTheMiddleLetter.cpp" />
+    <ClCompile Include="GradingStudents.cpp" />
     <ClCompile Include="JimAndTheOrders.cpp" />
     <ClCompile Include="Larry%27s Array.cpp" />
     <ClCompile Include="LyricsSearch.cpp" />
