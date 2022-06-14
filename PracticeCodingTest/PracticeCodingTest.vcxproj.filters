@@ -399,5 +399,8 @@
     <ClCompile Include="GradingStudents.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StandInOneLine.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
