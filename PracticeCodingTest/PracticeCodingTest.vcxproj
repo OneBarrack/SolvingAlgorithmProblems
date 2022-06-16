@@ -238,6 +238,7 @@
     <ClCompile Include="TheBombermanGame.cpp" />
     <ClCompile Include="TheFullCountingSort.cpp" />
     <ClCompile Include="TheGridSearch.cpp" />
+    <ClCompile Include="TheNumberOfWords.cpp" />
     <ClCompile Include="TimeConversion.cpp" />
     <ClCompile Include="WordPuzzle.cpp" />
     <ClCompile Include="SkillTree.cpp" />
