@@ -162,6 +162,7 @@
     <ClCompile Include="CollectStickers2.cpp" />
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
+    <ClCompile Include="EscapeFromRectangle.cpp" />
     <ClCompile Include="GoDown.cpp" />
     <ClCompile Include="DartGame.cpp" />
     <ClCompile Include="DiagonalDifference.cpp" />
