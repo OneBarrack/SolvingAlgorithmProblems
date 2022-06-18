@@ -408,5 +408,8 @@
     <ClCompile Include="EscapeFromRectangle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="WordSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
