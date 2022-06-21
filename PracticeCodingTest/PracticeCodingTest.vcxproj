@@ -272,6 +272,7 @@
     <ClCompile Include="WordConversion.cpp" />
     <ClCompile Include="1stCache.cpp" />
     <ClCompile Include="WordSort.cpp" />
+    <ClCompile Include="Z.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
