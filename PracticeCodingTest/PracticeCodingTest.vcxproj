@@ -163,6 +163,7 @@
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
+    <ClCompile Include="Liar.cpp" />
     <ClCompile Include="RGBStreet.cpp" />
     <ClCompile Include="Treasure.cpp" />
     <ClCompile Include="GoDown.cpp" />
