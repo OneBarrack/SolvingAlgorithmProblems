@@ -164,6 +164,7 @@
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
     <ClCompile Include="Liar.cpp" />
+    <ClCompile Include="Plug.cpp" />
     <ClCompile Include="RGBStreet.cpp" />
     <ClCompile Include="Treasure.cpp" />
     <ClCompile Include="GoDown.cpp" />
