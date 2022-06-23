@@ -162,6 +162,7 @@
     <ClCompile Include="CollectStickers2.cpp" />
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="ConnectTheIslands.cpp" />
+    <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
     <ClCompile Include="Liar.cpp" />
     <ClCompile Include="Plug.cpp" />
