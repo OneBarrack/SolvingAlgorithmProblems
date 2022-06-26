@@ -432,5 +432,8 @@
     <ClCompile Include="ACMCraft.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RotatingQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
