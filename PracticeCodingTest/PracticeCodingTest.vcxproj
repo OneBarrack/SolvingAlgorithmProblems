@@ -166,6 +166,7 @@
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
     <ClCompile Include="Liar.cpp" />
+    <ClCompile Include="OnOffSwitch.cpp" />
     <ClCompile Include="Plug.cpp" />
     <ClCompile Include="RGBStreet.cpp" />
     <ClCompile Include="RotatingQueue.cpp" />
