@@ -168,6 +168,7 @@
     <ClCompile Include="Liar.cpp" />
     <ClCompile Include="OnOffSwitch.cpp" />
     <ClCompile Include="Plug.cpp" />
+    <ClCompile Include="PrinterQueue.cpp" />
     <ClCompile Include="RGBStreet.cpp" />
     <ClCompile Include="RotatingQueue.cpp" />
     <ClCompile Include="Treasure.cpp" />
