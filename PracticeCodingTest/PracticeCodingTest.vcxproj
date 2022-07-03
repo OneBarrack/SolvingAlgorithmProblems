@@ -166,6 +166,7 @@
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="Editor.cpp" />
     <ClCompile Include="NumberOfVowels.cpp" />
+    <ClCompile Include="R2.cpp" />
     <ClCompile Include="ShowMeTheCode_2022_2.cpp" />
     <ClCompile Include="Zoo.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
