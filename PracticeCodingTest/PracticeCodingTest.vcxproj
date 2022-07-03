@@ -159,6 +159,7 @@
     <ClCompile Include="CalculateParkingFee.cpp" />
     <ClCompile Include="CalculateTheInsufficientMoney.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
+    <ClCompile Include="CellPhoneBills.cpp" />
     <ClCompile Include="ClimbingTheLeaderboard.cpp" />
     <ClCompile Include="CollectStickers2.cpp" />
     <ClCompile Include="Compression.cpp" />
