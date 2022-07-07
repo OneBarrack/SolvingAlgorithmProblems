@@ -169,6 +169,7 @@
     <ClCompile Include="NumberOfVowels.cpp" />
     <ClCompile Include="R2.cpp" />
     <ClCompile Include="ShowMeTheCode_2022_2.cpp" />
+    <ClCompile Include="WordStudy.cpp" />
     <ClCompile Include="Zoo.cpp" />
     <ClCompile Include="EscapeFromRectangle.cpp" />
     <ClCompile Include="Liar.cpp" />
