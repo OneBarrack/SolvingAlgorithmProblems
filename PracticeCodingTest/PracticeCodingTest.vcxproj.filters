@@ -462,5 +462,8 @@
     <ClCompile Include="WordStudy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ThreeNumbersSorting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
