@@ -167,6 +167,7 @@
     <ClCompile Include="ConnectTheIslands.cpp" />
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="Editor.cpp" />
+    <ClCompile Include="FindFraction.cpp" />
     <ClCompile Include="NumberOfVowels.cpp" />
     <ClCompile Include="R2.cpp" />
     <ClCompile Include="ShowMeTheCode_2022_2.cpp" />
