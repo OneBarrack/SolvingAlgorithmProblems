@@ -171,6 +171,7 @@
     <ClCompile Include="FindFraction.cpp" />
     <ClCompile Include="HomeAdress.cpp" />
     <ClCompile Include="NumberOfVowels.cpp" />
+    <ClCompile Include="OneNumber.cpp" />
     <ClCompile Include="R2.cpp" />
     <ClCompile Include="Resistance.cpp" />
     <ClCompile Include="ShowMeTheCode_2022_2.cpp" />
