@@ -504,5 +504,8 @@
     <ClCompile Include="Swap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GuitarStrings.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

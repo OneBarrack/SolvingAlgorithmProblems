@@ -170,6 +170,7 @@
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="Editor.cpp" />
     <ClCompile Include="FindFraction.cpp" />
+    <ClCompile Include="GuitarStrings.cpp" />
     <ClCompile Include="HomeAdress.cpp" />
     <ClCompile Include="IntelligentTrain.cpp" />
     <ClCompile Include="NumberOfVowels.cpp" />
