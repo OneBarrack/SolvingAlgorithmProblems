@@ -516,5 +516,8 @@
     <ClCompile Include="AvarageScore.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SortInside.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
