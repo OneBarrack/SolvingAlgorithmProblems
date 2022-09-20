@@ -182,6 +182,7 @@
     <ClCompile Include="Resistance.cpp" />
     <ClCompile Include="ShowMeTheCode_2022_2.cpp" />
     <ClCompile Include="SerialNumber.cpp" />
+    <ClCompile Include="Sign.cpp" />
     <ClCompile Include="SortInside.cpp" />
     <ClCompile Include="Swap.cpp" />
     <ClCompile Include="TestScore.cpp" />
