@@ -1,6 +1,6 @@
 //#include <iostream>
 //// Codility 코딩테스트 연습 
-//// Lesson 10 easy. CountFactors
+//// Lesson 10 easy. CountFactors 
 //
 //#include <string>
 //#include <vector>

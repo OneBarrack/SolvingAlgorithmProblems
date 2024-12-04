@@ -1,6 +1,6 @@
 #include <iostream>
 // 프로그래머스 코딩테스트 연습 
-// 연습문제. 우리 둘만의 암호
+// 연습문제. 우리 둘만의 암호 
 
 #include <string>
 #include <vector>
