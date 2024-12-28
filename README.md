@@ -1,1 +1,1 @@
-* Exercises for algorithm
+* Exercises for algorithm 
